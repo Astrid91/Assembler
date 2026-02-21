@@ -51,13 +51,13 @@
 
 ### Linux / macOS（g++）
 ```bash
-g++ -std=c++11 -O2 -o sic main.cpp
+g++ -std=c++11 -O2 -o sic SIC.cpp
 ./sic
 ```
 
 ### Windows（MinGW g++）
 ```bash
-g++ -std=c++11 -O2 -o sic.exe main.cpp
+g++ -std=c++11 -O2 -o sic.exe SIC.cpp
 sic.exe
 ```
 
