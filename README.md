@@ -1,4 +1,4 @@
-# SIC Assembler（兩段式組譯器
+# SIC Assembler（兩段式組譯器)
 
 這份專案是一個以 C++ 撰寫的 **SIC（Simplified Instructional Computer）兩段式組譯器**範例。程式會讀取 SIC 組合語言輸入檔，進行 **Pass 1 / Pass 2**，建立各種表格（Symbol / Integer / String），最後輸出每一行的 **位置（LOC）、原始指令、以及物件碼（Object Code）** 到 `SIC_output.txt`。
 
